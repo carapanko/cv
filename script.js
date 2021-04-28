@@ -31,11 +31,11 @@ elements.forEach(function (elem) {
     })
 })
 
-
+/*
 submitBtn.addEventListener('click', function() {
 	window.open('success.html');
 });
-
+*/
 function getRandomColor () {
     const letter = '0123456789ABCDEF';
     let color = '#';
